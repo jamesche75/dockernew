@@ -1,2 +1,2 @@
-FROM apache
+FROM nginx
 EXPOSE 8000
